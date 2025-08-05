@@ -14,3 +14,7 @@ contoh perubahan tipe data seperti ini, misalkan ingin mengubah data dari string
 menambahkan sintaks int(#masukan nama variabelnya) maka akan berubah, begitupun juga jika ingin mengubah
 dari int ke string
 """
+
+"""
+kemudian terdapat komen per line dan beberapa line, untuk perline menggunakan hash # sedangkan untuk beberapa line contohnya seperti ini
+"""
