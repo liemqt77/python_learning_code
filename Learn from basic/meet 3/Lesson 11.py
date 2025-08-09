@@ -1,4 +1,4 @@
-#belajar break, looping (for, while)
+#belajar break & looping (for, while)
 
 while True: #kondisi terpenuhi
     user_input = input("Type 'exit' to quit: ")
