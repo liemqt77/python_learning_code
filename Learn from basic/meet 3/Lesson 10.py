@@ -31,3 +31,15 @@ def greet(name="Guest"):
 greet()  # Tidak memberikan argumen
 greet("Alice")  # Memberikan argumen
 
+def sum_all(*numbers):
+    return sum(numbers)
+
+result = sum_all(1, 2, 3, 4, 5)
+print(result)
+
+def do_nothing():
+    return
+
+result = do_nothing()
+print(result)
+
