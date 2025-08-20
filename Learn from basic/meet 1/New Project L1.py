@@ -1,0 +1,15 @@
+print("Cobalah kalkulator sederhana ini")
+angka1 = input("Masukkan pertama: ")
+angka2 = input("Masukkan kedua: ")
+
+penjumlahan = int(angka1) + int(angka2)
+pengurangan = int(angka1) - int(angka2)
+pembagian = int(angka1) / int(angka2)
+perkalian = int(angka1) * int(angka2)
+
+print("======SEDANG DI PROSES=====")
+print("Berikut adalah jawabannya")
+print(f"Untuk jawaban dari {angka1} + {angka2} = {penjumlahan}")
+print(f"Untuk jawaban dari {angka1} - {angka2} = {pengurangan}")
+print(f"Untuk jawaban dari {angka1} / {angka2} = {pembagian}")
+print(f"Untuk jawaban dari {angka1} * {angka2} = {perkalian}")
